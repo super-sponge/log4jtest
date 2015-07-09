@@ -1,0 +1,112 @@
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+1 [main] [FATAL] - Log4jApp -Log4jApp.run(Log4jApp.java:9) -this is a fatal line
+5 [main] [ERROR] - Log4jApp -Log4jApp.run(Log4jApp.java:10) -this is a error line
+7 [main] [WARN] - Log4jApp -Log4jApp.run(Log4jApp.java:11) -this is a warn wa
+7 [main] [INFO] - Log4jApp -Log4jApp.run(Log4jApp.java:12) -this is a info line
+8 [main] [DEBUG] - Log4jApp -Log4jApp.run(Log4jApp.java:13) -this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] ERROR Slf4jApp - this is a error line
+[main] WARN Slf4jApp - this is a warn line
+[main] INFO Slf4jApp - this is a info line
+[main] DEBUG Slf4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] INFO App - 
+
+
+[main] ERROR Slf4jApp - this is a error line
+[main] WARN Slf4jApp - this is a warn line
+[main] INFO Slf4jApp - this is a info line
+[main] DEBUG Slf4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] INFO App - 
+
+
+[main] ERROR Slf4jApp - this is a error line
+[main] WARN Slf4jApp - this is a warn line
+[main] INFO Slf4jApp - this is a info line
+[main] DEBUG Slf4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] INFO App - 
+
+
+[main] ERROR Slf4jApp - this is a error line
+[main] WARN Slf4jApp - this is a warn line
+[main] INFO Slf4jApp - this is a info line
+[main] DEBUG Slf4jApp - this is a debug line
+[main] FATAL Log4jApp - this is a fatal line
+[main] ERROR Log4jApp - this is a error line
+[main] WARN Log4jApp - this is a warn wa
+[main] INFO Log4jApp - this is a info line
+[main] DEBUG Log4jApp - this is a debug line
+[main] INFO App - 
+
+
+[main] ERROR Slf4jApp - this is a error line
+[main] WARN Slf4jApp - this is a warn line
+[main] INFO Slf4jApp - this is a info line
+[main] DEBUG Slf4jApp - this is a debug line
